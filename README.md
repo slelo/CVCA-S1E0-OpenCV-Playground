@@ -1,6 +1,7 @@
 # About
 This repository is part of the first episode of my newly started Computer Vision Code-Along blog post series. <br>
-Click here if you're interested:
+
+
 [![Read more on dev.to](https://img.shields.io/badge/Read%20more%20on-dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/levente-slajcho/cva-computer-vision-adventure-series-s1e0-intro-3pjn)
 
 # OpenCV-Filters
